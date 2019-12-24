@@ -482,7 +482,7 @@ class OrderedDictWithHash(OrderedDict):
 True
 >>> dictionary == another_ordered_dict # and b == c
 True
->>> ordered_dict == another_ordered_dict # the why isn't c == a ??
+>>> ordered_dict == another_ordered_dict # then why isn't c == a ??
 False
 
 # We all know that a set consists of only unique elements,
